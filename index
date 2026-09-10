@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,56 +25,56 @@
                 
                 <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="600" class="email-container" style="width: 600px; max-width: 600px; margin: 0 auto;">
                     
-                    <!-- Slice 01: Header with Logos -->
+                    <!-- Slice 01 -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_01.jpg" width="600" alt="HELP AG NETSCOUT Header" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_01.jpg" width="600" alt="" style="display: block; width: 100%; max-width: 600px; border: 0;">
                         </td>
                     </tr>
 
-                    <!-- Slice 02: Title Section -->
+                    <!-- Slice 02 -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_02.jpg" width="600" alt="DDoS Resilience Beyond Bandwidth" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_02.jpg" width="600" alt="" style="display: block; width: 100%; max-width: 600px; border: 0;">
                         </td>
                     </tr>
 
-                    <!-- Slice 03: Attack Statistics -->
+                    <!-- Slice 03 -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_03.jpg" width="600" alt="DDoS Attack Statistics" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_03.jpg" width="600" alt="" style="display: block; width: 100%; max-width: 600px; border: 0;">
                         </td>
                     </tr>
 
-                    <!-- Slice 04: Roundtable Focus -->
+                    <!-- Slice 04 -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_04.jpg" width="600" alt="Roundtable Focus" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_04.jpg" width="600" alt="" style="display: block; width: 100%; max-width: 600px; border: 0;">
                         </td>
                     </tr>
 
-                    <!-- Slice 05: Choose Your Roundtable -->
+                    <!-- Slice 05 -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_05.jpg" width="600" alt="Choose Your Roundtable" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_05.jpg" width="600" alt="" style="display: block; width: 100%; max-width: 600px; border: 0;">
                         </td>
                     </tr>
 
-                    <!-- Slice 06: Abu Dhabi Event -->
+                    <!-- Slice 06 -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_06.jpg" width="600" alt="Abu Dhabi Event Details" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_06.jpg" width="600" alt="" style="display: block; width: 100%; max-width: 600px; border: 0;">
                         </td>
                     </tr>
 
-                    <!-- Slice 07: Dubai Event -->
+                    <!-- Slice 07 -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_07.jpg" width="600" alt="Dubai Event Details" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_07.jpg" width="600" alt="" style="display: block; width: 100%; max-width: 600px; border: 0;">
                         </td>
                     </tr>
 
-                    <!-- Slice 08: REGISTER NOW Button (CLICKABLE) -->
+                    <!-- Slice 08: REGISTER NOW (CLICKABLE) -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
                             <a href="https://www.helpag.com/netscout-ddos/" target="_blank" style="text-decoration: none; display: block; line-height: 0;">
@@ -87,7 +86,7 @@
                     <!-- Slice 09: Footer -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_09.jpg" width="600" alt="Rethink DDoS Resilience" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_09.jpg" width="600" alt="" style="display: block; width: 100%; max-width: 600px; border: 0;">
                         </td>
                     </tr>
 
