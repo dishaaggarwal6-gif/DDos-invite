@@ -1,1 +1,100 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>DDoS Resilience - Executive Roundtable</title>
+    <style>
+        body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+        table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+        img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; display: block; }
+        body { height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important; background-color: #ffffff; }
+        table { border-collapse: collapse !important; }
+        @media screen and (max-width: 600px) {
+            .email-container { width: 100% !important; max-width: 100% !important; }
+            .email-container img { width: 100% !important; max-width: 100% !important; height: auto !important; }
+        }
+    </style>
+</head>
+<body style="margin: 0; padding: 0; background-color: #ffffff;">
+
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color: #ffffff;">
+        <tr>
+            <td align="center" style="padding: 0;">
+                
+                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="600" class="email-container" style="width: 600px; max-width: 600px; margin: 0 auto;">
+                    
+                    <!-- Slice 01: Header with Logos -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_01.jpg" width="600" alt="HELP AG NETSCOUT Header" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                        </td>
+                    </tr>
+
+                    <!-- Slice 02: Title Section -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_02.jpg" width="600" alt="DDoS Resilience Beyond Bandwidth" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                        </td>
+                    </tr>
+
+                    <!-- Slice 03: Attack Statistics -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_03.jpg" width="600" alt="DDoS Attack Statistics" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                        </td>
+                    </tr>
+
+                    <!-- Slice 04: Roundtable Focus -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_04.jpg" width="600" alt="Roundtable Focus" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                        </td>
+                    </tr>
+
+                    <!-- Slice 05: Choose Your Roundtable -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_05.jpg" width="600" alt="Choose Your Roundtable" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                        </td>
+                    </tr>
+
+                    <!-- Slice 06: Abu Dhabi Event -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_06.jpg" width="600" alt="Abu Dhabi Event Details" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                        </td>
+                    </tr>
+
+                    <!-- Slice 07: Dubai Event -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_07.jpg" width="600" alt="Dubai Event Details" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                        </td>
+                    </tr>
+
+                    <!-- Slice 08: REGISTER NOW Button (CLICKABLE) -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
+                            <a href="https://www.helpag.com/netscout-ddos/" target="_blank" style="text-decoration: none; display: block; line-height: 0;">
+                                <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_08.jpg" width="600" alt="Register Now" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                            </a>
+                        </td>
+                    </tr>
+
+                    <!-- Slice 09: Footer -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0; font-size: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-invite/main/ddos-invite_09.jpg" width="600" alt="Rethink DDoS Resilience" style="display: block; width: 100%; max-width: 600px; border: 0;">
+                        </td>
+                    </tr>
+
+                </table>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
